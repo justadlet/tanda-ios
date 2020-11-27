@@ -1,0 +1,6 @@
+framework module Pods_tanda {
+  umbrella header "Pods-tanda-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16BD6390-1C03-4607-9FF1-A6C6B02F1286"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ED494E7-B379-484A-AB22-18874DA97FC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tanda/Controllers/RecipeCategory/RecipeCategoryDescriptionTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "RecipeCategoryDescriptionTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2ED494E7-B379-484A-AB22-18874DA97FC3 - 66c8798bfab51bda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tanda.RecipeCategoryDescriptionTableViewCell.recipeCategoryNameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tanda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adlet/Desktop/Programming/iOS/tanda-ios/files/tanda/Controllers/RecipeCategory/RecipeCategoryDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2ED494E7-B379-484A-AB22-18874DA97FC3 - 66c8798bfab51bda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tanda.RecipeCategoryDescriptionTableViewCell.recipeCategoryNameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tanda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adlet/Desktop/Programming/iOS/tanda-ios/files/tanda/Controllers/RecipeCategory/RecipeCategoryDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "2ED494E7-B379-484A-AB22-18874DA97FC3 - b90f9159e8521cd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tanda.RecipeCategoryDescriptionTableViewCell.recipeCategoryNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tanda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adlet/Desktop/Programming/iOS/tanda-ios/files/tanda/Controllers/RecipeCategory/RecipeCategoryDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "2ED494E7-B379-484A-AB22-18874DA97FC3 - b6da382a818f7286"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tanda.RecipeCategoryDescriptionTableViewCell.recipeCategoryNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "tanda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adlet/Desktop/Programming/iOS/tanda-ios/files/tanda/Controllers/RecipeCategory/RecipeCategoryDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "2ED494E7-B379-484A-AB22-18874DA97FC3 - d29d2fbac54582ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tanda.RecipeCategoryDescriptionTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; tanda.RecipeCategoryDescriptionTableViewCell"
+                  moduleName = "tanda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adlet/Desktop/Programming/iOS/tanda-ios/files/tanda/Controllers/RecipeCategory/RecipeCategoryDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "2ED494E7-B379-484A-AB22-18874DA97FC3 - e3cf0acce0ddce93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tanda.RecipeCategoryDescriptionTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tanda.RecipeCategoryDescriptionTableViewCell&gt;"
+                  moduleName = "tanda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adlet/Desktop/Programming/iOS/tanda-ios/files/tanda/Controllers/RecipeCategory/RecipeCategoryDescriptionTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6260BB9-6923-4469-9430-35D7500398E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tanda/Controllers/Recipes/MealTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "likePressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
